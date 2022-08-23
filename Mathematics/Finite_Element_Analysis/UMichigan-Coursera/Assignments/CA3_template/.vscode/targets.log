@@ -1,0 +1,646 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat Jul 30 17:33:53 2022
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+SSH_AGENT_LAUNCHER = gnome-keyring
+# environment
+SNAP_INSTANCE_KEY = 
+# environment
+VSCODE_CWD = /home/jose/deal-II/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template
+# environment
+WINDOWPATH = 2
+# default
+MAKE_COMMAND := make
+# environment
+QT_ACCESSIBILITY = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/102/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/jose/deal-II/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /usr/share/ubuntu-xorg:/usr/share/gnome:/home/jose/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/jose/.config/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# makefile (from 'Makefile', line 42)
+CMAKE_COMMAND = /usr/bin/cmake
+# environment
+GNOME_TERMINAL_SERVICE = :1.98
+# makefile
+MAKEFLAGS = pqrR
+# environment
+DBUS_STARTER_ADDRESS = unix:path=/run/user/1000/bus,guid=9ac69372313affeff2a450d062e54e9e
+# makefile
+CURDIR := /home/jose/deal-II/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu-xorg:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = ubuntu-xorg
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# makefile (from 'Makefile', line 54)
+CMAKE_BINARY_DIR = /home/share/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template
+# environment
+SNAP_REEXEC = 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 5742
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# makefile (from 'Makefile', line 51)
+CMAKE_SOURCE_DIR = /home/share/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template
+# environment
+SESSION_MANAGER = local/jose-ROG-Strix-G513QM-G513QM:@/tmp/.ICE-unix/3395,unix/jose-ROG-Strix-G513QM-G513QM:/tmp/.ICE-unix/3395
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus,guid=9ac69372313affeff2a450d062e54e9e
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"es","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# makefile (from 'Makefile', line 39)
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+SHLVL = 1
+# environment
+GNOME_TERMINAL_SCREEN = /org/gnome/Terminal/screen/9303c658_a6fb_428f_b981_038e9be01e4b
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+SNAP_COOKIE = B8bzwhewlLNJXLdZQXrYkhXy8wcXugwes5xbnedMccnjUmZfhh74
+# environment
+PATH = /home/jose/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+SNAP_USER_COMMON = /home/jose/snap/code/common
+# environment
+SNAP = /snap/code/102
+# environment
+SNAP_REVISION = 102
+# environment
+SNAP_REAL_HOME = /home/jose
+# environment
+USERNAME = jose
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = ubuntu-xorg
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# 'override' directive
+GNUMAKEFLAGS := 
+# makefile (from 'Makefile', line 48)
+EQUALS = =
+# environment
+LOGNAME = jose
+# environment
+SNAP_ARCH = amd64
+# makefile
+.DEFAULT_GOAL := default_target
+# environment
+SYSTEMD_EXEC_PID = 3395
+# makefile (from 'Makefile', line 45)
+RM = /usr/bin/cmake -E remove -f
+# environment
+DISPLAY = :0
+# environment
+USER = jose
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# environment
+DISABLE_WAYLAND = 1
+# environment
+SNAP_DATA = /var/snap/code/102
+# environment
+SNAP_CONTEXT = B8bzwhewlLNJXLdZQXrYkhXy8wcXugwes5xbnedMccnjUmZfhh74
+# environment
+DBUS_STARTER_BUS_TYPE = session
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+COLORTERM = truecolor
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/jose/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/jose
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-ca76bd5f-1.69.2-main.sock
+# environment
+TERM = xterm-256color
+# environment
+SNAP_NAME = code
+# environment
+GSETTINGS_SCHEMA_DIR = /snap/code/102/usr/share/glib-2.0/schemas
+# environment
+MATHEMATICA_HOME = /usr/local/Wolfram/Mathematica/13.1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+SNAP_VERSION = 3b889b09
+# makefile (from 'Makefile', line 21)
+SUFFIXES = 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VTE_VERSION = 6800
+# environment
+SNAP_COMMON = /var/snap/code/common
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+SNAP_USER_DATA = /home/jose/snap/code/102
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+GDMSESSION = ubuntu-xorg
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# variable set hash-table stats:
+# Load=120/1024=12%, Rehash=0, Collisions=12/159=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66306, inode 44965100): 18 files, no impossibilities.
+
+# 18 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+%.hpux_make_needs_suffix_list:
+
+# 1 implicit rules, 0 (0.0%) terminal.
+# Files
+
+distclean: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 144):
+	$(MAKE) -f CMakeFiles/Makefile2 distclean
+
+ 
+depend:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 110):
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+
+info/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 123):
+	$(MAKE) -f CMakeFiles/info.dir/build.make CMakeFiles/info.dir/build
+
+default_target: all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+edit_cache/fast: edit_cache
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+main3.cc.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 223):
+	$(MAKE) -f CMakeFiles/main3.dir/build.make CMakeFiles/main3.dir/main3.cc.o
+
+debug: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 183):
+	$(MAKE) -f CMakeFiles/Makefile2 debug
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-12 20:53:57.825327115
+#  File has been updated.
+#  Successfully updated.
+
+runclean/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 162):
+	$(MAKE) -f CMakeFiles/runclean.dir/build.make CMakeFiles/runclean.dir/build
+
+rebuild_cache:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 61):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+
+distclean/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 149):
+	$(MAKE) -f CMakeFiles/distclean.dir/build.make CMakeFiles/distclean.dir/build
+
+main3.cc.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 232):
+	$(MAKE) -f CMakeFiles/main3.dir/build.make CMakeFiles/main3.dir/main3.cc.i
+
+main3/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 214):
+	$(MAKE) -f CMakeFiles/main3.dir/build.make CMakeFiles/main3.dir/build
+
+.SILENT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+debug/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 188):
+	$(MAKE) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/build
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 90):
+	$(MAKE) -f CMakeFiles/Makefile2 clean
+
+cmake_force:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+preinstall/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 105):
+	$(MAKE) -f CMakeFiles/Makefile2 preinstall
+
+edit_cache:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 72):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+
+info: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 118):
+	$(MAKE) -f CMakeFiles/Makefile2 info
+
+runclean: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 157):
+	$(MAKE) -f CMakeFiles/Makefile2 runclean
+
+release/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 175):
+	$(MAKE) -f CMakeFiles/release.dir/build.make CMakeFiles/release.dir/build
+
+strip_comments/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 136):
+	$(MAKE) -f CMakeFiles/strip_comments.dir/build.make CMakeFiles/strip_comments.dir/build
+
+rebuild_cache/fast: rebuild_cache
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+main3.cc.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 241):
+	$(MAKE) -f CMakeFiles/main3.dir/build.make CMakeFiles/main3.dir/main3.cc.s
+
+# Not a target:
+.hpux_make_needs_suffix_list:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+preinstall: all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 100):
+	$(MAKE) -f CMakeFiles/Makefile2 preinstall
+
+strip_comments: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 131):
+	$(MAKE) -f CMakeFiles/Makefile2 strip_comments
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/6=0%
+#  recipe to execute (from 'Makefile', line 83):
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/share/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template/CMakeFiles /home/share/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template/CMakeFiles/progress.marks
+	$(MAKE) -f CMakeFiles/Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/share/FEM-course/_99ca4b61a33f0b7bb5b7e00744c27f9e_CA3_template/CMakeFiles 0
+
+run: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 196):
+	$(MAKE) -f CMakeFiles/Makefile2 run
+
+help:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 246):
+	@echo "The following are some of the valid targets for this Makefile:"
+	@echo "... all (the default if no target is provided)"
+	@echo "... clean"
+	@echo "... depend"
+	@echo "... rebuild_cache"
+	@echo "... info"
+	@echo "... edit_cache"
+	@echo "... strip_comments"
+	@echo "... distclean"
+	@echo "... runclean"
+	@echo "... release"
+	@echo "... debug"
+	@echo "... run"
+	@echo "... main3"
+	@echo "... main3.o"
+	@echo "... main3.i"
+	@echo "... main3.s"
+
+clean/fast: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+.NOTPARALLEL:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+main3.i: main3.cc.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+run/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+ 
+#  recipe to execute (from 'Makefile', line 201):
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/build
+
+main3.o: main3.cc.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+cmake_check_build_system:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := cmake_check_build_system
+# automatic
+# * := 
+# automatic
+# < := 
+# automatic
+# + := 
+# automatic
+# % := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/14=7%
+#  recipe to execute (from 'Makefile', line 274):
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+
+main3: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 209):
+	$(MAKE) -f CMakeFiles/Makefile2 main3
+
+release: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 170):
+	$(MAKE) -f CMakeFiles/Makefile2 release
+
+.SUFFIXES: .hpux_make_needs_suffix_list
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY: default_target cmake_force rebuild_cache rebuild_cache/fast edit_cache edit_cache/fast all clean clean/fast preinstall preinstall/fast depend info info/fast strip_comments strip_comments/fast distclean distclean/fast runclean runclean/fast release release/fast debug debug/fast run run/fast main3 main3/fast main3.o main3.cc.o main3.i main3.cc.i main3.s main3.cc.s help cmake_check_build_system
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+main3.s: main3.cc.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=43/1024=4%, Rehash=0, Collisions=0/150=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 62 / storage = 707 B / avg = 11 B
+# current buf: size = 8162 B / used = 707 B / count = 62 / avg = 11 B
+
+# strcache performance: lookups = 235 / hit rate = 73%
+# hash-table stats:
+# Load=62/8192=1%, Rehash=0, Collisions=0/235=0%
+# Finished Make data base on Sat Jul 30 17:33:53 2022
+
+ 

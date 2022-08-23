@@ -1,0 +1,10 @@
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/rebuild_cache.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/info.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/distclean.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/runclean.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/release.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/debug.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/run.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/edit_cache.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/strip_comments.dir
+/home/share/FEM-course/_49d1502fdaafe8caa95621a812dd7fe8_CA4_template/CMakeFiles/main4.dir

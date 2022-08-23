@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/jose/bin/deal.II/include",
+                "/home/jose/bin/deal.II/include/deal.II/base",
+                "/usr/include/hdf5/serial"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
